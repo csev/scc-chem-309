@@ -8,7 +8,18 @@ require "nav.php";
 
 ?>
 <div id="container">
-<h1>Hosting Your Own MOOC</h1>
+<h1>LibreCourse: Chemistry 309</h1>
+<p>
+This is a demonstration web site that shows the potential of turning free textbooks available on
+<a href="https://chem.libretexts.org" target="_blank">LibreTexts</a>
+into self-paced stand alone MOOCs.
+These materials are taken from a
+<a href="https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)" target="_blank">
+Chemistry 309 Course</a>
+at
+<a href="https://www.scc.losrios.edu/" target="_blank">Sacremento City College</a>
+taught by 
+<a href="https://www.scc.losrios.edu/chemistry/dianne-bennett/" target="_blank">Dianne Bennet</a>
 <?php if ( isset($_SESSION['id']) ) { ?>
 <p>
 Welcome to our Massive Open Online Course (MOOC). Now that you have logged in, you have access to 

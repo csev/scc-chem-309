@@ -1,17 +1,31 @@
 {
-"title": "Hosting Your Own MOOC with Koseu",
-"description" : "This is merely a sample lessons.json borrowed from www.tsugi.org.  You should edit this file with your own course materials, LTI tools, and videos.",
+"title": "CHEM 309: General, Organic and Biochemistry",
+"description" : "This is a sample web site to show the possibiliuties of a MOOC based on a LibreTexts book.",
 "modules": [
 {
-    "title": "Overview of Tsugi",
+    "title": "Intro to CHEM 309",
     "anchor": "overview",
     "icon" : "fa-clone",
-    "description": "This gives some context around what Tsugi is and why Tsugi is being developed.",
-    "slides": "lectures/00-Mini.pptx",
+    "description": "These videos are part of a complete course series designed for Allied Health Students at Sacramento City College - SCC.",
+    "slides": "lectures/00Video Lecture Outines Intro Chem 309 F17.pdf",
     "videos" : [
         {
-            "title" : "Overview of Tsugi",
-            "youtube" : "OzrlFJNBFqY"
+            "title" : "Chem 309 Intro Part 01 - On-line Course Resources",
+            "youtube" : "s1xweplNWOU"
+        },
+        {
+            "title" : "Chem 309 Intro Part 02 - Underlying Basic Knowledge",
+            "youtube" : "JpU84AIyYWk"
+        },
+        {
+            "title" : "Chem 309 Intro Part 03 - Intro to Measurements",
+            "youtube" : "JpU84AIyYWk"
+        }
+    ],
+    "references" : [
+        {
+            "title" : "Chapter 1",
+            "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/01._Measuring_Matter_and_Energy"
         }
     ]
 },

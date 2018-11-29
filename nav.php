@@ -46,6 +46,7 @@ if ( $loggedin ) {
     $set->addRight('Login', $T.'login.php');
 }
 
+$set->addRight('Book', 'https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters');
 $set->addRight('Instructor', 'https://www.scc.losrios.edu/chemistry/dianne-bennett/');
 
 // Set the topNav for the session
