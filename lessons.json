@@ -1,24 +1,20 @@
 {
-"title": "CHEM 309: General, Organic and Biochemistry",
-"description" : "This is a sample web site to show the possibiliuties of a MOOC based on a LibreTexts book.",
+"title": "General, Organic and Biochemistry",
+"description" : "These videos are part of a course series designed for Allied Health Students at Sacramento City College - SCC.  This is not all of the material, it is a simple demonstration site. All of the material is available in the book on the LibreTexts web site.",
 "modules": [
 {
-    "title": "Intro to CHEM 309",
-    "anchor": "overview",
-    "icon" : "fa-clone",
-    "description": "These videos are part of a complete course series designed for Allied Health Students at Sacramento City College - SCC.",
+    "title": "Measuring Matter and Energy",
+    "anchor": "measure",
+    "icon" : "fa-balance-scale",
+    "description": "This section looks at some important pre-requisite knowledge and how we use measurement in science.",
     "slides": "lectures/00Video Lecture Outines Intro Chem 309 F17.pdf",
     "videos" : [
         {
-            "title" : "Chem 309 Intro Part 01 - On-line Course Resources",
-            "youtube" : "s1xweplNWOU"
-        },
-        {
-            "title" : "Chem 309 Intro Part 02 - Underlying Basic Knowledge",
+            "title" : "Underlying Basic Knowledge",
             "youtube" : "JpU84AIyYWk"
         },
         {
-            "title" : "Chem 309 Intro Part 03 - Intro to Measurements",
+            "title" : "Intro to Measurements",
             "youtube" : "JpU84AIyYWk"
         }
     ],
@@ -26,6 +22,29 @@
         {
             "title" : "Chapter 1",
             "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/01._Measuring_Matter_and_Energy"
+        }
+    ]
+},
+{
+    "title": "Nuclear Chemistry",
+    "anchor": "chap3",
+    "icon" : "fa-building",
+    "description": "This section explores topics ranging from atomic structures to nuclear medicine.",
+    "slides": "lectures/02Vid Lect Outlines Atomic Str and Nuclear Chem Chem 309 F17.pdf",
+    "videos" : [
+        {
+            "title" : "Atomic Structures An Intro",
+            "youtube" : "WAVuZBwHPQY"
+        },
+        {
+            "title" : "Atomic Structure Isotopes & the Nucleus",
+            "youtube" : "VxBiEVLbTk8"
+        }
+    ],
+    "references" : [
+        {
+            "title" : "Chapter 3",
+            "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/03._Nuclear_Chemistry"
         }
     ]
 }
