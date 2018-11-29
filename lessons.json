@@ -26,10 +26,10 @@
     ]
 },
 {
-    "title": "Nuclear Chemistry",
-    "anchor": "chap3",
+    "title": "Atomic Structure",
+    "anchor": "chap2",
     "icon" : "fa-building",
-    "description": "This section explores topics ranging from atomic structures to nuclear medicine.",
+    "description": "This section looks at how we understand atomic strcuture.",
     "slides": "lectures/02Vid Lect Outlines Atomic Str and Nuclear Chem Chem 309 F17.pdf",
     "videos" : [
         {
@@ -39,6 +39,37 @@
         {
             "title" : "Atomic Structure Isotopes & the Nucleus",
             "youtube" : "VxBiEVLbTk8"
+        }
+    ],
+    "references" : [
+        {
+            "title" : "Chapter 2",
+            "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/03._Nuclear_Chemistry"
+        }
+    ]
+},
+{
+    "title": "Nuclear Chemistry",
+    "anchor": "chap3",
+    "icon" : "fa-snowflake-o",
+    "description": "This section explores topics ranging from atomic structures to nuclear medicine.",
+    "slides": "lectures/02Vid Lect Outlines Atomic Str and Nuclear Chem Chem 309 F17.pdf",
+    "videos" : [
+        {
+            "title" : "Nuclear Structure Review & Intro to Nuclear Chemistry",
+            "youtube" : "6kaYIgBWdKg"
+        },
+        {
+            "title" : "Nuclear Reactions",
+            "youtube" : "AhKZu9J8wbE"
+        },
+        {
+            "title" : "Radioactivity & Half-Lives",
+            "youtube" : "4KigV-AY8j8"
+        },
+        {
+            "title" : "Nuclear Medicine",
+            "youtube" : "pWVp0bSnvDo"
         }
     ],
     "references" : [
