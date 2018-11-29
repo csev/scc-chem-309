@@ -15,8 +15,7 @@ if ( $loggedin ) {
 	$set->addLeft('Assignments', $R.'assignments');
 }
 
-$set->addLeft('Privacy', $R.'privacy');
-$set->addLeft('Free App Store', 'https://www.tsugicloud.org');
+$set->addLeft('LibreTexts', 'https://chem.libretexts.org');
 
 if ( $loggedin ) {
     $submenu = new \Tsugi\UI\Menu();
