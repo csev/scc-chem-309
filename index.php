@@ -19,7 +19,7 @@ Chemistry 309 Course</a>
 at
 <a href="https://www.scc.losrios.edu/" target="_blank">Sacremento City College</a>
 taught by 
-<a href="https://www.scc.losrios.edu/chemistry/dianne-bennett/" target="_blank">Dianne Bennet</a>
+<a href="https://www.scc.losrios.edu/chemistry/dianne-bennett/" target="_blank">Dianne Bennett</a>
 <?php if ( isset($_SESSION['id']) ) { ?>
 <p>
 Welcome to our Massive Open Online Course (MOOC). Now that you have logged in, you have access to 
