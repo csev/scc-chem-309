@@ -47,7 +47,7 @@ if ( $loggedin ) {
     $set->addRight('Login', $T.'login.php');
 }
 
-$set->addRight('Instructor', 'https://www.dr-chuck.com');
+$set->addRight('Instructor', 'https://www.scc.losrios.edu/chemistry/dianne-bennett/');
 
 // Set the topNav for the session
 $OUTPUT->topNavSession($set);
