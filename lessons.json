@@ -53,6 +53,13 @@
             "title" : "Chapter 2",
             "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/03._Nuclear_Chemistry"
         }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Atomic Structure",
+        "launch" : "mod/gift/?quiz=01-Atomic.txt",
+        "resource_link_id" : "02_atomic_quiz"
+        }
     ]
 },
 {
