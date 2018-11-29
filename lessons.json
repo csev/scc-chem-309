@@ -23,6 +23,13 @@
             "title" : "Chapter 1",
             "href" : "https://chem.libretexts.org/LibreTexts/Sacramento_City_College/SCC%3A_Chem_309_-_General%2C_Organic_and_Biochemistry_(Bennett)/Chapters/01._Measuring_Matter_and_Energy"
         }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Measurement",
+        "launch" : "mod/gift/?quiz=01-Measurement.txt",
+        "resource_link_id" : "01_measurement_quiz"
+        }
     ]
 },
 {
